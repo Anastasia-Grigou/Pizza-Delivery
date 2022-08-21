@@ -1,0 +1,13 @@
+int Ncook = 2;
+int Noven = 5;
+int Ndeliverer = 10;
+int Tbake =  10;
+int Tprep = 1;
+int Torder;
+int Tdel = 1;
+int Torderlow = 1;
+int Torderhigh = 5;
+int Norderlow = 1;
+int Norderhigh = 5;
+int Tlow = 5;
+int Thigh = 15;
